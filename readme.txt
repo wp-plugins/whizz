@@ -7,7 +7,7 @@ Tested up to: 4.2.1
 Stable tag: 1.0.0
 License: GPLv2 or later
 
-WE’RE WORDPRESS FANATICS AND IF YOU ARE NOT CONVINCED,  HOPEFULLY WE CAN CHANGE YOUR MIND AFTER SEEING HOW SIMPLE AND FUN WE’VE MADE WP-ADMIN!
+We're Wordpress fanatics and if you are not convinced, hopefully we can change your mind after seeing how simple and fun we've made Wp-admin!
 
 == Description ==
 <h4>About WHIZZ</h4>
