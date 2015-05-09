@@ -1,0 +1,1 @@
+[donate default_type="Single" show_monthly_option="no" single_choices="25,50,75,100,250" single_default="25" monthly_choices="25,35,50,75,100" monthly_default="25" sku="May2015-Donation"/]
