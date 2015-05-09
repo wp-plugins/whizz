@@ -86,6 +86,9 @@ https://www.youtube.com/watch?v=kLE8k_Ck1AE
 For more information about WHIZZ upgrades, ultimate features, tutorials and in-depth details on all versions of this WordPress Plugin, namely;
 
 WHIZZ   |   WHIZZ Ultimate   |   WHIZZ Unlimited
+
+Please visit https://whizz.us.com/
+
 == Changelog ==
 
 = 1.0.2 =
