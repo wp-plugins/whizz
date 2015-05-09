@@ -1,10 +1,10 @@
-﻿=== Whizz ===
+﻿=== WHIZZ ===
 Contributors: browserweb
 Tags: wordpress admin, wp-admin, wordpress menus, wordpress navigation, wordpress plugins, wordpress users, wordpress dashboard, wordpress widgets
-Donate link: http://whizz.us.com/
-Requires at least: 3.0.1
-Tested up to: 4.1
-Stable tag: 1.3.36
+Donate link: https://whizz.us.com/
+Requires at least: 4.0.0
+Tested up to: 4.2.1
+Stable tag: 1.0.0
 License: GPLv2 or later
 
 WE’RE WORDPRESS FANATICS AND IF YOU ARE NOT CONVINCED,  HOPEFULLY WE CAN CHANGE YOUR MIND AFTER SEEING HOW SIMPLE AND FUN WE’VE MADE WP-ADMIN!
@@ -35,6 +35,7 @@ Please visit https://whizz.us.com/
 
 == Installation ==
 <h3>Installation within WordPress Admin</h3>
+
 1. Search and Install WHIZZ from Add New Plugin.
 
 2. Activate WHIZZ Plugin.
@@ -73,7 +74,9 @@ Please visit https://whizz.us.com/
 
 == Screenshots ==
 <h4>What does WHIZZ do?</h4>
+
 Watch the video tutorial below to learn how WHIZZ WordPress Plugin helps you organize your WordPress Admin (WP-Admin).<br>
+
 <h3>Video Explainer</h3>
  
 https://www.youtube.com/watch?v=kLE8k_Ck1AE
@@ -85,10 +88,16 @@ For more information about WHIZZ upgrades, ultimate features, tutorials and in-d
 WHIZZ   |   WHIZZ Ultimate   |   WHIZZ Unlimited
 == Changelog ==
 
-= 1.3.36 =
-Plugin release. Operate all the basic functions.
+= 1.0.2 =
+Clean separator data on plugin uninstall.
+
+= 1.0.1 =
+Added Menu Separator, it allows user to Select & Drag Separator for WordPress menus.
+
+= 1.0.0 =
+Added wordpress standard menus rearrange.
 
 == Upgrade Notice ==
 
-= 1.3.36 =
-This version fixes a security related bug. Upgrade immediately.
+= 1.0.2 =
+This version fixes Clean separator data on plugin uninstall.
