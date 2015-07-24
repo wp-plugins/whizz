@@ -182,6 +182,10 @@ Please visit https://whizz.us.com/
 
 == Changelog ==
 
+= 1.0.5 =
+
+Updated code for menu reorder.
+
 = 1.0.4 =
 
 Menu reorder bug fixes.
