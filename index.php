@@ -3,7 +3,7 @@
  * Plugin Name: WHIZZ
  * Plugin URI: https://whizz.us.com
  * Description: WHIZZ helps you quickly organize, manage and add a color-coded interface to your WordPress Admin. Why accept bland? WHIZZ for WordPress is guaranteed to brighten up your day, and your WP-Admin! 
- * Version: 1.0.4
+ * Version: 1.0.5
  * Author: Browserweb Inc
  * Author URI: https://whizz.us.com
 */
