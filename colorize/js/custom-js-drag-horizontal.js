@@ -1,7 +1,9 @@
 (function($){
 
 	$(document).ready(function(e) {
-
+console.log(main_js_obj_horizontal.admin_menus);
+console.log("-------");
+console.log(main_js_obj_horizontal.admin_submenu);
 		var info_popup_div = "";		
 
 		jQuery("#adminmenu").sortable(
@@ -30,7 +32,7 @@
 
 				sortableIn = 0;
 
-			},
+			}, 
 
 			receive: function(event, ui)
 
@@ -118,6 +120,9 @@
 			if($(element).attr('href') == "edit.php?post_type=shop_order")
 			{
 				new_menu_order.push("woocommerce");
+			} else if($(element).attr('href') == "edit.php?post_type=gravity_forms_styler")
+			{
+				new_menu_order.push("gf_edit_forms");
 			}
 			else
 			{
