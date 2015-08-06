@@ -8,7 +8,7 @@ Donate link: https://whizz.us.com/
 
 Requires at least: 4.0.0
 
-Tested up to: 4.2.2
+Tested up to: 4.2.4
 
 Stable tag: 1.0.0
 
@@ -182,6 +182,10 @@ Please visit https://whizz.us.com/
 
 == Changelog ==
 
+= 1.0.6 =
+
+css issue resolved.
+
 = 1.0.5 =
 
 Updated code for menu reorder.
@@ -217,6 +221,6 @@ Added wordpress standard menus rearrange.
 
 
 
-= 1.0.3 =
+= 1.0.6 =
 
-This version fixes jquery issue.
+This version fixes css issue.

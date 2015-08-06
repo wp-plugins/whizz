@@ -38,11 +38,11 @@
 
   <div class="version-details">
 
-   <h1>v. 1.0.4</h1>
+   <h1>v. 1.0.6</h1>
 
    <p><span class="fixed">Clean:</span>
 
-   <div class="fixed-details">Menu reorder bug fixes.</div>
+   <div class="fixed-details">css issue resolved.</div>
 
    </p>
 
@@ -109,6 +109,30 @@
    <p><span class="fixed">Clean:</span>
 
    <div class="fixed-details">Menu reorder bug fixes.</div>
+
+   </p>
+
+  </div>
+  
+  <div class="version-details">
+
+   <h1>v. 1.0.5</h1>
+
+   <p><span class="fixed">Clean:</span>
+
+   <div class="fixed-details">Updated code for menu reorder.</div>
+
+   </p>
+
+  </div>
+  
+  <div class="version-details">
+
+   <h1>v. 1.0.6</h1>
+
+   <p><span class="fixed">Clean:</span>
+
+   <div class="fixed-details">css issue resolved.</div>
 
    </p>
 
