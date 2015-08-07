@@ -182,6 +182,10 @@ Please visit https://whizz.us.com/
 
 == Changelog ==
 
+= 1.0.7 =
+
+CSS conflict with visual composer fixed.
+
 = 1.0.6 =
 
 css issue resolved.
@@ -221,6 +225,6 @@ Added wordpress standard menus rearrange.
 
 
 
-= 1.0.6 =
+= 1.0.7 =
 
-This version fixes css issue.
+CSS conflict with visual composer fixed.

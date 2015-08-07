@@ -38,11 +38,11 @@
 
   <div class="version-details">
 
-   <h1>v. 1.0.6</h1>
+   <h1>v. 1.0.7</h1>
 
    <p><span class="fixed">Clean:</span>
 
-   <div class="fixed-details">css issue resolved.</div>
+   <div class="fixed-details">CSS conflict with visual composer fixed.</div>
 
    </p>
 
@@ -133,6 +133,18 @@
    <p><span class="fixed">Clean:</span>
 
    <div class="fixed-details">css issue resolved.</div>
+
+   </p>
+
+  </div>
+  
+   <div class="version-details">
+
+   <h1>v. 1.0.7</h1>
+
+   <p><span class="fixed">Clean:</span>
+
+   <div class="fixed-details">CSS conflict with visual composer fixed.</div>
 
    </p>
 
