@@ -8,7 +8,7 @@ Donate link: https://whizz.us.com/
 
 Requires at least: 4.0.0
 
-Tested up to: 4.2.4
+Tested up to: 4.3
 
 Stable tag: 1.0.0
 
